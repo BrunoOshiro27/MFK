@@ -1,7 +1,7 @@
 *{ margin:0; padding:0; box-sizing: border-box;}
 body{
     font-size: 40px;
-    width:800px;
+    width:80%;
     margin: auto;
     text-align: center;
     background-color: #D89E9A;
@@ -59,8 +59,8 @@ input{
     margin: 20px;
 }
 .manual-btn{
-    width: 100px;
-    height: 30px;
+    width: 2em;
+    height: 0.6em;
     border: 2px solid #fff;
     margin:5px;
     border-radius: 10px;
