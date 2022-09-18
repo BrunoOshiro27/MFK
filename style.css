@@ -25,7 +25,8 @@ body{
     height: 50vh;
     border-radius: 20px;
     border: 1px solid black;
-    overflow-x: hidden;
+    overflow-x:scroll;
+    overflow-y:hidden;
 }
 .slides{
     display: grid;
