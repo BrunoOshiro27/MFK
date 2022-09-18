@@ -12,12 +12,17 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-around;
+    max-width: 800px;
+    text-align: center;
+    margin: auto;
 }
 #container{
     max-width: 800px;
     display: grid;
     grid-template-columns: auto auto;
     grid-template-rows: auto;
+    text-align: center;
+    margin: auto;
     border-radius: 20px;
     border: 1px solid black;
     overflow-x: hidden;
@@ -73,5 +78,7 @@ input{
 }
 footer{
     font-size: 30px;
+    max-width: 800px;
+    margin: auto;
     margin-bottom: 40px;
 }
