@@ -22,11 +22,9 @@ body{
     grid-template-rows: auto;
     margin: auto;
     width: 60vw;
-    height: 50vh;
+    height: 52vh;
     border-radius: 20px;
-    border: 1px solid black;
     overflow-x:scroll;
-    overflow-y:hidden;
 }
 .slides{
     display: grid;
