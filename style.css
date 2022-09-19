@@ -20,9 +20,8 @@ body{
     grid-template-columns: auto auto;
     grid-template-rows: auto;
     margin: auto;
-    align-content: center;
     width: 80vw;
-    height: 52vh;
+    height: 51vh;
     border-radius: 20px;
     overflow-x:scroll;
 }
@@ -50,7 +49,7 @@ section div{
     border-radius: 20px;
 }
 img{
-    margin-top: 2rem;
+    margin-top: 0.5rem;
     width:6rem;
 }
 #logo{
