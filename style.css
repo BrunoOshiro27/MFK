@@ -20,10 +20,19 @@ body{
     grid-template-columns: auto auto;
     grid-template-rows: auto;
     margin: auto;
-    width: 60vw;
+    align-content: center;
+    width: 80vw;
     height: 52vh;
     border-radius: 20px;
     overflow-x:scroll;
+}
+::-webkit-scrollbar{
+    background-color:#cbb6dc;
+    height: 8px;
+    border-radius: 6px;
+}
+::-webkit-scrollbar-thumb{
+    background-color: #dfd8e9;
 }
 .slides{
     display: grid;
