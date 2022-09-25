@@ -21,7 +21,7 @@ body{
     grid-template-rows: auto;
     margin: auto;
     width: 80vw;
-    height: 51vh;
+    height: 20em;
     border-radius: 20px;
     overflow-x:scroll;
 }
