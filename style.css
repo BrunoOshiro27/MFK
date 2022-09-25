@@ -81,8 +81,11 @@ input{
     background-color: #fff;
 }
 footer{
-    font-size: 30px;
+    font-size: 1em;
     max-width: 800px;
     margin: auto;
     margin-bottom: 40px;
+}
+.social-logo{
+    width: 1.5em;
 }
